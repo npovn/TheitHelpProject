@@ -18,7 +18,15 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>./../wp-content/uploads/2022/01/cropped-mainlogo-32x32.jpg</url>
+	<title>The itHelp Project</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Tại sao lại cần có một website?</title>
 		<link>./../2022/01/21/tai-sao-lai-can-co-mot-website/index.html</link>
